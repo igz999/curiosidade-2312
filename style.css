@@ -37,6 +37,10 @@ nav ul li a {
     font-weight: bold;
 }
 
+nav ul li a:hover{
+color: #ffcc00;
+}
+
 main {
     max-width: 800px;
     margin: 20px auto;
