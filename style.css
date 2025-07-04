@@ -70,6 +70,7 @@ color: #ffcc00;
 .manchete {
     margin-top: 10px;
     font-weight: bold;
+    color: blue;
 }
 main {
     max-width: 800px;
